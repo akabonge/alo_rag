@@ -1,0 +1,5 @@
+{
+  "outputDirectory": "src",
+  "buildCommand": null,
+  "functions": { "api/ask.js": { "maxDuration": 20 } }
+}
